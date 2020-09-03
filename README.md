@@ -5,13 +5,14 @@
 </p>
 
 <div align="center">
-<img src="./public/assets/png/homepage.gif">
-<img src="./public/assets/png/modal.gif">
-<img src="./public/assets/png/profile-detail.gif">
+<img src="./public/assets/png/homepage.png">
+<img src="./public/assets/png/modal.png">
+<img src="./public/assets/png/profile-detail.png">
 </div>
 
 ## Description
 
+<a href='https://crud-todo-app.netlify.app/'>https://crud-todo-app.netlify.app/</a>
 This is the project that is build in 5 hours by me.
 
 ## Requests of Client
@@ -27,8 +28,6 @@ This is the project that is build in 5 hours by me.
 4. Add 3 operations each todo item that are Details, Edit and Delete ✅
 
 5. If user click the detail button, he will go to the detail page on '/details/postId' and he will see the all profile details and post detail ✅
-
-6.
 
 ### NPM Packages
 
